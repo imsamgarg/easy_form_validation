@@ -1,0 +1,15 @@
+name: easy_form_validation
+description: Simplify your form validation process with this library. It provides a declarative approach to perform form validation that would make code much more readable and simple.
+version: 0.0.1
+homepage: "https://github.com/imsamgarg/easy_form_validation"
+repository: "https://github.com/imsamgarg/easy_form_validation"
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
